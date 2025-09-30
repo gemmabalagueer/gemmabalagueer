@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Gemma Balaguer. Amante de los gatos. 
+- ### Gmail: gbalagueradell@gmail.com 
+- ### Telf: 652574574
+- ### Domicilio: Calle Luz Casanova, 19. 
+- ### Carnet de conducir. 
 
-<!--
-**gemmabalagueer/gemmabalagueer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Formación académica. 
+- ### Graduada en Economía por la Universidad de Valencia. 
+- ### Actualmente cursando el Máster en Big Data & Cloud en Edem. 
+#### El Máster que estoy cursando me va a proporcionar las herramientas necesarias para poder aportar al tejido empresarial soluciones válidas a los retos tecnológicos constantes a los que se enfrenta. Espero tener un camino lleno de aprendizajes y oportunidades rodeada de personas que les apasiona la teconología tanto como a mi. 
 
-Here are some ideas to get you started:
+## Idiomas. 
+- ### Valenciano. 
+- ### Inglés nivel B1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos. 
+- ### Finalizar el Máster. 
+- ### Obtener el nivel B2 de inglés. 
